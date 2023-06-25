@@ -1,0 +1,22 @@
+img {
+    height: 300px;
+}
+* {
+    text-align: center;
+}
+ p.font { font-weight: 600; }
+ p.szkola{
+    font-weight: 800;
+    font-size: x-large;
+    
+ }
+h2 p.tabelka {
+    color: blue;
+    text-align: center;
+    padding: 50;
+   
+ margin: 50;
+  }
+  p.kurs {
+    font-weight: 600;
+  }
